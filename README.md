@@ -1,0 +1,2 @@
+# moyka
+cp moyka
